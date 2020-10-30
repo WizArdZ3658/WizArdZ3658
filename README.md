@@ -14,6 +14,7 @@
 </a>
 
 <br/>
+
 ## I'm SomnAth Pal
 - Computer Science undergraduate at IIIT Kalyani
 - currently working as a Back-End Developer at SirpiDataScience
@@ -68,4 +69,6 @@
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 
-Check out some of my projects below and if you like them don't forget to star :)
+<br/>
+
+Check out some of my projects below and if you like them don't forget to star :smile:
