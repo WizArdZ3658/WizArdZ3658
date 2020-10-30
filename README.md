@@ -15,9 +15,10 @@
 
 <br/>
 
-## Skills
-### Languages
+## My Skills
+### Languages :-
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
@@ -27,11 +28,41 @@
 
 <br/>
 
-### Databases
+### Databases :-
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+
+<br/>
+
+### Frameworks/Libraries :-
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reactrouter.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qt.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />
+
+### Miscellaneous
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jirasoftware.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
+
 <!--
 **WizArdZ3658/WizArdZ3658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
