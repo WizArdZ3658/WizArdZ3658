@@ -17,7 +17,7 @@
 
 ## I'm SomnAth Pal
 - A Computer Science undergraduate, currently in final year.
-- Currently working as a Back-End Developer Intern at SirpiDataScience.
+- I've worked as a Full Stack Developmer and a Back End Developer (as an intern).
 - I'm actively looking for a 6-month internship.
 
 ## My Skills
