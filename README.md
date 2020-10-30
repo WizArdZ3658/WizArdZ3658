@@ -1,4 +1,4 @@
-# Hi there, I'm SomnAth <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/skywalker11/">
   <img align="left" alt="SomnAth | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,6 +14,9 @@
 </a>
 
 <br/>
+## I'm SomnAth Pal
+- Computer Science undergraduate at IIIT Kalyani
+- currently working as a Back-End Developer at SirpiDataScience
 
 ## My Skills
 ### Languages :-
@@ -65,17 +68,4 @@
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 
-<!--
-**WizArdZ3658/WizArdZ3658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out some of my projects below and if you like them don't forget to star :)
