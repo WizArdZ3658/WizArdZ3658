@@ -10,10 +10,18 @@
   <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://stackoverflow.com/users/9582533/somnath-pal">
-  <img align="left" alt="SomnAth | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="SomnAth | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
 <br/>
+
+### Skills
+#### Languages
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />
 <!--
 **WizArdZ3658/WizArdZ3658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
