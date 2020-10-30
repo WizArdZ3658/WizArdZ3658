@@ -69,6 +69,6 @@
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 
-<br/>
+<br/><br/>
 
-Check out some of my projects below and if you like them don't forget to star :smile:
+Check out some of my projects below and if you like them don't forget to star :slightly_smiling_face:
