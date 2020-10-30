@@ -18,7 +18,7 @@
 ## I'm SomnAth Pal
 - A Computer Science undergraduate, currently in final year.
 - I've worked as a Full Stack Developmer and a Back End Developer (as an intern).
-- I'm actively looking for a 6-month internship.
+- Actively searching for a 6-month internship.
 
 ## My Skills
 ### Languages :-
