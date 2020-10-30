@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm </SomnAth Pal>
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <a href="https://wizardz3658.github.io/"></SomnAth Pal></a>
 
 <a href="https://www.linkedin.com/in/skywalker11/">
   <img align="left" alt="SomnAth | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
