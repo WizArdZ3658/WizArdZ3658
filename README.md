@@ -16,8 +16,9 @@
 <br/>
 
 ## I'm SomnAth Pal
-- Computer Science undergraduate at IIIT Kalyani
-- currently working as a Back-End Developer at SirpiDataScience
+- A Computer Science undergraduate, currently in final year.
+- Currently working as a Back-End Developer Intern at SirpiDataScience.
+- I'm actively looking for a 6-month internship.
 
 ## My Skills
 ### Languages :-
@@ -36,7 +37,7 @@
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+<!--<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />-->
 
 <br/>
 
@@ -46,7 +47,7 @@
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reactrouter.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qt.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<!--<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />-->
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
@@ -71,4 +72,4 @@
 
 <br/><br/>
 
-Check out some of my projects below and if you like them don't forget to star :slightly_smiling_face:
+Check out some of my projects below and if you like them don't forget to star :smiley:
