@@ -20,7 +20,7 @@
 - I've worked as a Full Stack Developer and a Back End Developer (as an intern).
 - Actively searching for a 6-month internship.
 
-## Technologies I've worked with
+## Tech stack I've worked with
 ### Languages :-
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
