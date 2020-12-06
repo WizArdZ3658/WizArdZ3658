@@ -16,7 +16,7 @@
 <br/>
 
 ## I'm SomnAth Pal
-- A Computer Science undergraduate, currently in final year.
+- A Computer Science undergraduate, currently in final year @IIIT-Kalyani.
 - I've worked as a Full Stack Developer and Back End Developer (as an intern).
 - Actively searching for a 6-month internship.
 
