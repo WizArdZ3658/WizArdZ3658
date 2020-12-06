@@ -19,7 +19,7 @@
 - A Computer Science undergraduate, currently in final year @IIIT-Kalyani.
 - I've worked as a Full Stack Developer and Back End Developer (as an intern).
 - Actively searching for a 6-month internship.
-- You can find my resume [here](https://github.com/WizArdZ3658/Resume/blob/main/myResume.pdf)
+- You can find my resume [here](https://github.com/WizArdZ3658/Resume/blob/main/myResume.pdf).
 
 ## Tech stack I've worked with
 ### Languages :-
