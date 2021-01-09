@@ -23,14 +23,7 @@
 
 ## Tech stack I've worked with
 ### Languages :-
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="SomnAth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+Python, C/C++, JavaScript, Java, R, HTML, CSS
 
 <br/>
 
