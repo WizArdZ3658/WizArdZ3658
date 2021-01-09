@@ -32,7 +32,7 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis
 Django, Flask, React, Node.js, Express.js, Numpy, Pandas, Bootstrap, Scikit-learn, QT, Redux, React Native, Shiny, Plumber, Requests, Beautiful Soup, STL, jQuery, Matplotlib
 
 ### Miscellaneous :-
-Git, GitHub, Jira, Linux, Windows, Postman, Android Studio, PyCharm, IntelliJ Idea, RStudio, VS Code, AWS S3, Firebase Auth, 
+Git, GitHub, Jira, Linux, Windows, Postman, Android Studio, PyCharm, IntelliJ Idea, RStudio, VS Code, AWS S3, Firebase Auth, Clever-Cloud, Heroku, MongoDB-Atlas
 
 <br/>
 Check out some of my projects below and if you like them, don't forget to star :star:
