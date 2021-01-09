@@ -34,6 +34,5 @@ Django, Flask, React, Node.js, Express.js, Numpy, Pandas, Bootstrap, Scikit-lear
 ### Miscellaneous :-
 Git, GitHub, Jira, Linux, Windows, Postman, Android Studio, PyCharm, IntelliJ Idea, RStudio, VS Code, AWS S3, Firebase Auth, 
 
-<br/><br/>
-
+<br/>
 Check out some of my projects below and if you like them, don't forget to star :star:
