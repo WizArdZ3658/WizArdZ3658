@@ -40,3 +40,9 @@ Git, GitHub, Jira, Linux, Windows, Postman, Android Studio, PyCharm, IntelliJ Id
 
 <br/>
 Check out some of my projects below and if you like them, don't forget to star :star:
+
+<br/>  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WizArdZ3658&color=blueviolet&style=flat&label=PROFILE+VIEWS" align="center" />
+</div>  
