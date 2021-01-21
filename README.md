@@ -41,7 +41,8 @@ Git, GitHub, Jira, Linux, Windows, Postman, Android Studio, PyCharm, IntelliJ Id
 <br/>
 Check out some of my projects below and if you like them, don't forget to star :star:
 
-<br/>  
+<br/>
+
 #
 
 <div align="center">
