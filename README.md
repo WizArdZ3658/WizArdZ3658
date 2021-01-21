@@ -20,7 +20,7 @@
 
 <br/>
 
-## I'm SomnAth Pal
+## I'm SomnAth
 - A Computer Science undergraduate, currently in final year @IIIT-Kalyani.
 - I've worked as a Full Stack Developer and Back End Developer (as an intern).
 - You can find my resume [here](https://github.com/WizArdZ3658/Resume/blob/main/myResume.pdf).
