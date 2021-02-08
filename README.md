@@ -21,7 +21,8 @@
 <br/>
 
 ## I'm SomnAth Pal
-- A Computer Science undergraduate, currently in final year @IIIT-Kalyani.
+- Full Stack Developer Intern at [OneShot](https://www.oneshot.ai/).
+- Computer Science undergraduate, currently in final year [IIIT Kalyani](http://iiitkalyani.ac.in/).
 - I've worked as a Full Stack Developer and Back End Developer (as an intern).
 - You can find my resume [here](https://github.com/WizArdZ3658/Resume/blob/main/myResume.pdf).
 
