@@ -19,7 +19,7 @@
   </a>
   <a href="https://www.instagram.com/wingman__7" target="_blank">
 <!--     <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /> -->
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>  
 </div>  
 
