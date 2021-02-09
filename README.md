@@ -2,23 +2,23 @@
 
 <div align="center">
   <a href="https://github.com/WizArdZ3658" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?style=flat-square&logo=github&logoColor=white" alt="Github" />
   </a>
   <a href="https://twitter.com/wingman__7" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://dev.to/wizardz3658" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=Devto style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?style=flat-square&logo=dev.to&logoColor=white" alt="Devto" />
   </a>
   <a href="https://www.linkedin.com/in/skywalker11" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://stackoverflow.com/users/9582533/wingman-7" target="_blank">
 <!--     <img src=https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white alt="Stack Overflow" style="margin-bottom: 5px;" /> -->
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://www.instagram.com/wingman__7" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>  
 </div>  
 
