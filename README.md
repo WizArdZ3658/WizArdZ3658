@@ -18,7 +18,7 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white">
   </a>
   <a href="https://www.instagram.com/wingman__7" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white" />
   </a>  
 </div>  
 
