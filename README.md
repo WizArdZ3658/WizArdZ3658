@@ -18,7 +18,8 @@
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://www.instagram.com/wingman__7" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
+<!--     <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /> -->
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>  
 </div>  
 
