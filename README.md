@@ -14,7 +14,8 @@
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://stackoverflow.com/users/9582533/wingman-7" target="_blank">
-    <img src=https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white alt="Stack Overflow" style="margin-bottom: 5px;" />
+<!--     <img src=https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white alt="Stack Overflow" style="margin-bottom: 5px;" /> -->
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white">
   </a>
   <a href="https://www.instagram.com/wingman__7" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
