@@ -38,7 +38,7 @@ Python, C/C++, JavaScript, Java, R, HTML, CSS, SQL
 MySQL, PostgreSQL, SQLite, MongoDB, Redis
 
 ### Frameworks/Libraries :-
-Django, Flask, React, Node.js, Express.js, Numpy, Pandas, Bootstrap, Scikit-learn, QT, Redux, React Native, Shiny, Plumber, Requests, Beautiful Soup, STL, jQuery, Matplotlib, Babel, Webpack
+Django, Flask, React, Node.js, Express.js, Numpy, Pandas, Bootstrap, Scikit-learn, QT, Redux, React Native, Shiny, Plumber, Requests, Beautiful Soup, STL, jQuery, Matplotlib, Babel, Webpack, Mongoose
 
 ### Miscellaneous :-
 Git, GitHub, Jira, Linux, Windows, Postman, Android Studio, PyCharm, IntelliJ Idea, RStudio, VS Code, AWS S3, Firebase Auth, Clever-Cloud, Heroku, MongoDB-Atlas
