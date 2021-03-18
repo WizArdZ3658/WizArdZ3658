@@ -26,6 +26,7 @@
 
 ## I'm SomnAth Pal
 - Software Developer Intern at [OneShot](https://www.oneshot.ai/).
+- Incoming Software Developer Engineer at [Quolum](https://quolum.com/).
 - Computer Science undergraduate, currently in final year [IIIT Kalyani](http://iiitkalyani.ac.in/).
 - I've experience in Full Stack Developent, Back End Development and Front End Development.
 - You can find my resume [here](https://wizardz3658.github.io/resume.pdf).
