@@ -25,8 +25,8 @@
 <br/>
 
 ## I'm SomnAth Pal
-- **Software Development Engineer Intern** at [OneShot](https://www.oneshot.ai/).
-- Incoming **Software Development Engineer** at [Quolum](https://quolum.com/).
+- **Software Development Engineer Intern** at **[OneShot](https://www.oneshot.ai/)**.
+- Incoming **Software Development Engineer** at **[Quolum](https://quolum.com/)**.
 - Computer Science undergraduate, currently in final year [IIIT Kalyani](http://iiitkalyani.ac.in/).
 - I have 1+ year of experience in Software Development and Engineering.
 
