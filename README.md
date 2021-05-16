@@ -28,7 +28,7 @@
 - **Software Development Engineer Intern** at **[OneShot](https://www.oneshot.ai/)**.
 - Incoming **Software Development Engineer** at **[Quolum](https://quolum.com/)**.
 - Computer Science undergraduate, currently in final year **[IIIT Kalyani](http://iiitkalyani.ac.in/)**.
-- 1+ year of work experience in Software Development and Engineering.
+- 1+ years of work experience in Software Development and Engineering.
 
 ## Tech stack I've worked with
 ### Languages :-
