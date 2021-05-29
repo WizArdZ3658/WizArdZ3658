@@ -26,7 +26,7 @@
 
 ## I'm SomnAth Pal
 - **SDE** at **[Quolum](https://quolum.com/)**.
-- Former **SDE Intern** at **[OneShot](https://www.oneshot.ai)**, **[SirpiDataScience](https://www.sirpi.io)**.
+- Former **SDE Intern** at **[OneShot](https://www.oneshot.ai)** and **[SirpiDataScience](https://www.sirpi.io)**.
 - Computer Science undergraduate, currently in final year **[IIIT Kalyani](http://iiitkalyani.ac.in/)**.
 - 1+ years of work experience in Software Development and Engineering.
 
