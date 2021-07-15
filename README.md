@@ -40,9 +40,6 @@ MySQL, PostgreSQL, SQLite, MongoDB
 ### Frameworks/Libraries :-
 Django, Flask, React, Node.js, Express.js, Numpy, Pandas, Scikit-learn, QT, Redux, React Native, Spring Boot
 
-### Miscellaneous :-
-Git, GitHub, Jira, Linux, Windows, MacOS, Postman, PyCharm, IntelliJ Idea, RStudio, VS Code, Clever-Cloud, Heroku, MongoDB-Atlas, Firebase Auth, AWS S3
-
 <br/>
 Check out some of my projects below and if you like them, don't forget to star :star:
 
