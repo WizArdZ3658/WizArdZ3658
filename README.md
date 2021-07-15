@@ -32,7 +32,7 @@
 
 ## Tech stack I've worked with
 ### Languages :-
-Python, C, C++, JavaScript, Java, HTML, CSS, SQL
+Python, C, C++, JavaScript, Java, SQL
 
 ### Databases :-
 MySQL, PostgreSQL, SQLite, MongoDB
