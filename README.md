@@ -32,13 +32,13 @@
 
 ## Tech stack I've worked with
 ### Languages :-
-Python, C, C++, JavaScript, Java, R, HTML, CSS, SQL
+Python, C, C++, JavaScript, Java, HTML, CSS, SQL
 
 ### Databases :-
-MySQL, PostgreSQL, SQLite, MongoDB, Redis
+MySQL, PostgreSQL, SQLite, MongoDB
 
 ### Frameworks/Libraries :-
-Django, Flask, React, Node.js, Express.js, Numpy, Pandas, Bootstrap, Scikit-learn, QT, Redux, React Native, Shiny, Plumber, Spring Boot, Mongoose
+Django, Flask, React, Node.js, Express.js, Numpy, Pandas, Scikit-learn, QT, Redux, React Native, Spring Boot
 
 ### Miscellaneous :-
 Git, GitHub, Jira, Linux, Windows, MacOS, Postman, PyCharm, IntelliJ Idea, RStudio, VS Code, Clever-Cloud, Heroku, MongoDB-Atlas, Firebase Auth, AWS S3
