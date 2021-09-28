@@ -10,7 +10,7 @@
   <a href="https://dev.to/wizardz3658" target="_blank">
     <img src="https://img.shields.io/badge/-Dev.to-230809?style=flat-square&logo=Dev.to&logoColor=white" alt="Devto" />
   </a>
-  <a href="https://www.linkedin.com/in/skywalker11" target="_blank">
+  <a href="https://www.linkedin.com/in/wingman7" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://stackoverflow.com/users/9582533/wingman-7" target="_blank">
