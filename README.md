@@ -28,7 +28,7 @@
 - **Software Engineer** at **[Quolum](https://quolum.com/)**.
 - Former **Software Engineer Intern** at **[OneShot](https://www.oneshot.ai)** and **[SirpiDataScience](https://www.sirpi.io)**.
 - **B.Tech** in **Computer Science and Engineering**, **[IIIT Kalyani](http://iiitkalyani.ac.in/)**.
-- 1+ years of work experience in software development and engineering.
+- 3+ years of work experience in software development and engineering.
 
 ## Tech stack I've worked with
 ### Languages :-
