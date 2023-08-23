@@ -24,7 +24,7 @@
 
 <br/>
 
-## Know more about me :-
+## Know more about me &darr;
 - Former **Software Engineer** at **[Quolum](https://quolum.com/)**, **[OneShot](https://www.oneshot.ai)** and **[SirpiDataScience](https://www.sirpi.io)**.
 - 3+ years of work experience in software development and engineering.
 - **B.Tech** in **Computer Science and Engineering** from **[IIIT Kalyani](http://iiitkalyani.ac.in/)**.
