@@ -24,7 +24,7 @@
 
 <br/>
 
-## I'm SomnAth Pal
+## I'm Somnath
 - Former **Software Engineer** at **[Quolum](https://quolum.com/)**, **[OneShot](https://www.oneshot.ai)** and **[SirpiDataScience](https://www.sirpi.io)**.
 - **B.Tech** in **Computer Science and Engineering**, **[IIIT Kalyani](http://iiitkalyani.ac.in/)**.
 - 3+ years of work experience in software development and engineering.
