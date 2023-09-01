@@ -25,7 +25,7 @@
 <br/>
 
 ## Know more about me :-
-- **Software Engineer II** at **[Spinny](https://www.spinny.com/)**.
+- Currently working as **Software Engineer II** at **[Spinny](https://www.spinny.com/)** (SDE-2, Backend).
 - Former **Software Engineer** at **[Quolum](https://quolum.com/)**, **[OneShot](https://www.oneshot.ai)** and **[SirpiDataScience](https://www.sirpi.io)**.
 - 3+ years of work experience in software development and engineering.
 - **B.Tech** in **Computer Science and Engineering** from **[IIIT Kalyani](http://iiitkalyani.ac.in/)**.
