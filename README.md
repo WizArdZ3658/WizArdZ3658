@@ -17,9 +17,9 @@
 <!--     <img src=https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white alt="Stack Overflow" style="margin-bottom: 5px;" /> -->
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://www.instagram.com/wingman__7" target="_blank">
+<!--   <a href="https://www.instagram.com/wingman__7" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-3f729b?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>  
+  </a>   -->
 </div>  
 
 <br/>
